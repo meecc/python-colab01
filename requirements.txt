@@ -366,8 +366,7 @@ widgetsnbextension
 wordcloud                
 wrapt                    
 xarray                   
-xgboost                  
-xkit                     
+xgboost                                   
 xlrd                     
 xlwt                     
 yellowbrick              
