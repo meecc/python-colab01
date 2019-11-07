@@ -84,7 +84,6 @@ folium
 fsspec                   
 future                   
 gast                     
-GDAL                     
 gdown                    
 gensim                   
 geographiclib            
