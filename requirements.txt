@@ -295,7 +295,6 @@ s3transfer
 scikit-image             
 scikit-learn             
 scipy                    
-screen-resolution-extra  
 scs                      
 seaborn                  
 semantic-version         
