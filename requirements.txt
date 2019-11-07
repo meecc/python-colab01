@@ -288,8 +288,7 @@ qtconsole
 requests                 
 requests-oauthlib        
 resampy                  
-retrying                 
-rpy2                     
+retrying                       
 rsa                      
 s3fs                     
 s3transfer               
