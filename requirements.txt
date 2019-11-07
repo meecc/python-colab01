@@ -64,8 +64,7 @@ dopamine-rl
 earthengine-api          
 easydict                 
 ecos                     
-editdistance             
-en-core-web-sm           
+editdistance                    
 entrypoints              
 et-xmlfile               
 fa2                      
