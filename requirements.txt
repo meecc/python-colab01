@@ -261,7 +261,6 @@ PyDrive
 pyemd                    
 pyglet                   
 Pygments                 
-pygobject                
 pymc3                    
 PyMeeus                  
 pymongo                  
@@ -269,8 +268,7 @@ pymystem3
 PyOpenGL                 
 pyparsing                
 pypng                    
-pyrsistent               
-pysndfile                
+pyrsistent                            
 PySocks                  
 pystan                   
 pytest                   
