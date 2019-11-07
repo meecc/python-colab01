@@ -252,7 +252,6 @@ py
 pyarrow                  
 pyasn1                   
 pyasn1-modules           
-pycocotools              
 pycparser                
 pydata-google-auth       
 pydot                    
