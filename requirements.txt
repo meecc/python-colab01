@@ -274,7 +274,6 @@ pysndfile
 PySocks                  
 pystan                   
 pytest                   
-python-apt               
 python-chess             
 python-dateutil          
 python-louvain           
