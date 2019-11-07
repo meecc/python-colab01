@@ -186,7 +186,6 @@ mkl
 mlxtend                  
 more-itertools           
 moviepy                  
-mpi4py                   
 mpmath                   
 msgpack                  
 multiprocess             
