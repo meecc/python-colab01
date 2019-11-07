@@ -1,12 +1,12 @@
 # Python environment with requirements.txt
 
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/requirements/master)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/meecc/python-colab01/master)
 
 A Binder-compatible repo with a `requirements.txt` file.
 
 Access this Binder at the following URL 
 
-http://mybinder.org/v2/gh/binder-examples/requirements/master
+http://mybinder.org/v2/gh/meecc/python-colab01/master
 
 ## Notes
 The `requirements.txt` file should list all Python libraries that your notebooks
