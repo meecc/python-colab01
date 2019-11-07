@@ -78,7 +78,7 @@ fbprophet
 feather-format           
 featuretools             
 filelock                 
-fix-yahoo-finance        
+yfinance        
 Flask                    
 folium                   
 fsspec                   
